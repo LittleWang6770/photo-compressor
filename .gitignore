@@ -1,0 +1,37 @@
+build/
+artifacts/
+.DS_Store
+
+# Local design reference; never publish.
+[dD][eE][sS][iI][gG][nN].[mM][dD]
+
+# Generated reports, user data and local credentials.
+*.jsonl
+*.log
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.heic
+*.HEIC
+*.heif
+*.HEIF
+*.dng
+*.DNG
+*.arw
+*.ARW
+*.cr2
+*.CR2
+*.cr3
+*.CR3
+*.nef
+*.NEF
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.zip
+.env
+.env.*
+.agents/
+.codex/
